@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Pavan Kumar | RISC-V | FPGA | Embedded Systems | IoT" />
+</p>
+
+
 # 👋 Hi, I'm Pavan Kumar  
 
 💻 B.Tech Student in **Electronics & Communication Engineering** (JNTUK)  
