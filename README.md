@@ -1,4 +1,4 @@
-👋 Hi, I’m Pavan Kumar  
+👋 Hi, I’m Maturu Pavan Kumar  
 💻 B.Tech Student in Electronics & Communication Engineering (JNTUK)  
 ⚡ Passionate about RISC-V, FPGA Design, Embedded Systems & IoT  
 
