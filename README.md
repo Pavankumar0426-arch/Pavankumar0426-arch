@@ -24,7 +24,7 @@
   - Applied industry-standard EDA tools for physical design, from Netlist to GDSII  
   - Performed verification (DRC, LVS), STA, floor planning, placement, CTS, and routing  
   - Automated design tasks using Python scripting  
-  - 📄 [Certificate](https://github.com/Pavankumar0426-arch/Pavankumar0426-arch/blob/main/certificates/physical_design.pdf)  
+  - 📄 [Certificate](https://github.com/Pavankumar0426-arch/Pavankumar0426-arch/blob/main/Certificates/physical_design.pdf)  
 
 - **Design Verification – Abhyasa Semicon Technologies**  
   - Developed SystemVerilog testbenches & implemented UVM methodology for AXI Protocol Verification  
