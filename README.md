@@ -5,7 +5,7 @@
 # 👋 Hi, I'm Pavan Kumar  
 
 💻 B.Tech Student in **Electronics & Communication Engineering** (JNTUK)  
-⚡ Passionate about **RISC-V, FPGA Design, Embedded Systems & IoT**  
+⚡ Passionate about **RISC-V, FPGA Design, Embedded Systems, IoT, Python, Java, SQL, AWS, DSA**  
 📍 Based in Andhra Pradesh, India  
 
 ---
