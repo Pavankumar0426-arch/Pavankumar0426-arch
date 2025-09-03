@@ -29,27 +29,27 @@
 - **Design Verification – Abhyasa Semicon Technologies**  
   - Developed SystemVerilog testbenches & implemented UVM methodology for AXI Protocol Verification  
   - Used Python for automation, coverage analysis, and generating verification reports  
-  - 📄 [Certificate](certificates/design_verification.pdf)  
+  - 📄 [Certificate](Certificates/design_verification.pdf)  
 
 - **Internet of Things (IoT) – Sri Shasha Prayathi Technologies**  
   - Programmed IoT applications with Arduino Uno & Raspberry Pi  
   - Integrated radar and sensor-based embedded solutions  
-  - 📄 [Certificate](certificates/iot.pdf)  
+  - 📄 [Certificate](Certificates/iot.pdf)  
 
 - **Python Basics for Data Science – IBM**  
   - Acquired Python fundamentals (OOP, control structures, functions)  
   - Applied **NumPy, Pandas, Matplotlib** for data analysis  
-  - 📄 [Certificate](certificates/python_basics_ibm.pdf)  
+  - 📄 [Certificate](Certificates/python_basics_ibm.pdf)  
 
 - **Python 101 for Data Science – IBM Cognitive Class**  
   - Worked with Jupyter Notebooks for coding and documenting data workflows  
   - Applied Python for exploratory data analysis  
-  - 📄 [Certificate](certificates/python101_ibm.pdf)  
+  - 📄 [Certificate](Certificates/python101_ibm.pdf)  
 
 - **Java Programming – Mindenious “Elevate your Intellect”**  
   - Mastered core Java concepts and OOP principles  
   - Implemented applications with collections & file handling  
-  - 📄 [Certificate](certificates/java.pdf)  
+  - 📄 [Certificate](Certificates/java.pdf)  
 
 ---
 
