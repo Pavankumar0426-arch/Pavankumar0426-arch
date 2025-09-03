@@ -1,9 +1,6 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Pavan Kumar | RISC-V | FPGA | Embedded Systems | IoT" />
+  <img src="https://raw.githubusercontent.com/Pavankumar0426-arch/Pavankumar0426-arch/main/assets/banner.png" alt="Pavan Kumar | RISC-V | FPGA | Embedded Systems | IoT" />
 </p>
-
-
-
 
 # 👋 Hi, I'm Pavan Kumar  
 
