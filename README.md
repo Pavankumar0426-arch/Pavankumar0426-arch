@@ -6,7 +6,7 @@
 
 💻 B.Tech Student in **Electronics & Communication Engineering** (JNTUK)  
 ⚡ Passionate about **RISC-V, FPGA Design, Embedded Systems, IoT, Python, Java, SQL, AWS, DSA**  
-📍 Based in Andhra Pradesh, India  
+📍 Based in Vizianagaram, Andhra Pradesh, India  
 
 ---
 
@@ -56,7 +56,7 @@
 **Languages:** C, Python, Java, SQL  
 **Hardware & Tools:** Verilog, Arduino, FPGA (Vivado), EDA Playground  
 **Data Science:** NumPy, Pandas, Matplotlib  
-**Other Tools:** Git, VS Code, Eclipse  
+**Other Tools:** Github, VS Code, Eclipse, Excel, Word 
 
 ---
 
