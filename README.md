@@ -12,7 +12,6 @@
 
 ## 🚀 Projects
 - 🔹 [Power-Optimized 3-Stage Pipelined RISC-V Processor](https://github.com/Pavankumar0426-arch/power-optimized-riscv)  
-- 🔹 Cardiac Arrest Detection using Smartwatch  
 - 🔹 [Parking Sensor using Arduino](https://github.com/Pavankumar0426-arch/Parking-Sensor-using-Arduino)  
 
 ---
