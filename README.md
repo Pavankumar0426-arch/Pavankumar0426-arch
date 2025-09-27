@@ -11,7 +11,8 @@
 ---
 
 ## 🚀 Projects
-- 🔹 [Power-Optimized 3-Stage Pipelined RISC-V Processor](https://github.com/Pavankumar0426-arch/power-optimized-riscv)  
+- 🔹 [Power-Optimized 3-Stage Pipelined RISC-V Processor](https://github.com/Pavankumar0426-arch/power-optimized-riscv)
+- 🔹 [Real-Time Object Detection & Multi-Object Tracking with People Counting](https://github.com/Pavankumar0426-arch/RealTimeObjectTracking)
 - 🔹 [Parking Sensor using Arduino](https://github.com/Pavankumar0426-arch/Parking-Sensor-using-Arduino)  
 
 ---
