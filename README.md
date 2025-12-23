@@ -13,11 +13,18 @@
 ## 🚀 Projects
 - 🔹 [Real-Time People Tracking & Counting System](https://github.com/Pavankumar0426-arch/RealTimeObjectTracking)
 - 🔹 [Power-Optimized 3-Stage Pipelined RISC-V Processor](https://github.com/Pavankumar0426-arch/power-optimized-riscv)
-- 🔹 [Parking Sensor using Arduino](https://github.com/Pavankumar0426-arch/Parking-Sensor-using-Arduino)  
-
+- 🔹 [Parking Sensor using Arduino](https://github.com/Pavankumar0426-arch/Parking-Sensor-using-Arduino)
+- 
 ---
 
 ## 💼 Internships  
+
+- **Data Analyst - ExcelR**
+  - Enhanced dashboards for sales, operations, and customer metrics. 
+  - Cleaned, transformed, and validated datasets for accurate reporting. 
+  - Automated repetitive reports using Excel formulas & Power Query. 
+  - Collaborated with mentors to deliver insights that improved business KPIs.
+  - 📄 [Certificate](Certificates/data_analyst.pdf)
 
 - **Physical Design – Abhyasa Semicon Technologies**  
   - Applied industry-standard EDA tools for physical design, from Netlist to GDSII  
