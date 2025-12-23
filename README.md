@@ -24,7 +24,7 @@
   - Cleaned, transformed, and validated datasets for accurate reporting. 
   - Automated repetitive reports using Excel formulas & Power Query. 
   - Collaborated with mentors to deliver insights that improved business KPIs.
-  - 📄 [Certificate](Certificates/data_analyst.pdf)
+  - 📄 [Certificate](Certificates/Data_analyst.pdf)
 
 - **Physical Design – Abhyasa Semicon Technologies**  
   - Applied industry-standard EDA tools for physical design, from Netlist to GDSII  
