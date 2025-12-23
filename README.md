@@ -5,7 +5,7 @@
 # 👋 Hi, I'm Pavan Kumar  
 
 💻 B.Tech Student in **Electronics & Communication Engineering** (JNTUK)  
-⚡ Passionate about **Python, Java,SQL, AWS, DSA, Excel, PowerBi, Tableau, RISC-V, FPGA Design, Embedded Systems, IoT**  
+⚡ Passionate about **Python, Java, SQL, AWS, DSA, Excel, PowerBi, Tableau, RISC-V, FPGA Design, Embedded Systems, IoT**  
 📍 Based in Vizianagaram, Andhra Pradesh, India  
 
 ---
