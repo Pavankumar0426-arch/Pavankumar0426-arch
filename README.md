@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Pavankumar0426-arch/Pavankumar0426-arch/main/Banner.png" alt="Pavan Kumar | RISC-V | FPGA | Embedded Systems | IoT a" />
+  <img src="https://raw.githubusercontent.com/Pavankumar0426-arch/Pavankumar0426-arch/main/Banner.png" alt="Pavan Kumar | RISC-V | FPGA | Embedded Systems | IoT" />
 </p>
 
 # 👋 Hi, I'm Pavan Kumar  
 
 💻 B.Tech Student in **Electronics & Communication Engineering** (JNTUK)  
-⚡ Passionate about **RISC-V, FPGA Design, Embedded Systems, IoT, Python, Java, SQL, AWS, DSA**  
+⚡ Passionate about **Python, Java,SQL, AWS, DSA, Excel, PowerBi, Tableau, RISC-V, FPGA Design, Embedded Systems, IoT**  
 📍 Based in Vizianagaram, Andhra Pradesh, India  
 
 ---
