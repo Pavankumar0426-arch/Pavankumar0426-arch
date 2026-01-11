@@ -59,7 +59,7 @@
 
 ## 📫 Connect with Me
 - [LinkedIn](http://www.linkedin.com/in/pavan-kumar-maturu-591935251)  
-- ✉️ Email: pavanmaturu2002@gmail.com  
+- pavanmaturu2002@gmail.com  
 - [GitHub](https://github.com/Pavankumar0426-arch)  
 
 ---
