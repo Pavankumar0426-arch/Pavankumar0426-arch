@@ -57,18 +57,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![Pavan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pavankumar0426-arch&show_icons=true&theme=tokyonight)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavankumar0426-arch&layout=compact&theme=tokyonight)  
-
----
-
-## 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pavankumar0426-arch&theme=tokyonight)  
-
----
-
 ## 📫 Connect with Me
 - [LinkedIn](http://www.linkedin.com/in/pavan-kumar-maturu-591935251)  
 - ✉️ Email: pavanmaturu2002@gmail.com  
