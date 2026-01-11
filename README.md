@@ -5,7 +5,7 @@
 # 👋 Hi, I'm Pavan Kumar  
 
 💻 B.Tech Student in **Electronics & Communication Engineering** (JNTUK)  
-⚡ Passionate about **Python, Java, SQL, AWS, DSA, Excel, PowerBi, Tableau, RISC-V, FPGA Design, Embedded Systems, IoT**  
+⚡ Passionate about **Python, SQL, Data Structures and Algorithms, Advanced Excel, PowerBi, Tableau**  
 📍 Based in Vizianagaram, Andhra Pradesh, India  
 
 ---
@@ -26,22 +26,6 @@
   - Collaborated with mentors to deliver insights that improved business KPIs.
   - 📄 [Certificate](Certificates/Data_analyst.pdf)
 
-- **Physical Design – Abhyasa Semicon Technologies**  
-  - Applied industry-standard EDA tools for physical design, from Netlist to GDSII  
-  - Performed verification (DRC, LVS), STA, floor planning, placement, CTS, and routing  
-  - Automated design tasks using Python scripting  
-  - 📄 [Certificate](Certificates/physical_design.pdf)  
-
-- **Design Verification – Abhyasa Semicon Technologies**  
-  - Developed SystemVerilog testbenches & implemented UVM methodology for AXI Protocol Verification  
-  - Used Python for automation, coverage analysis, and generating verification reports  
-  - 📄 [Certificate](Certificates/design_verification.pdf)  
-
-- **Internet of Things (IoT) – Sri Shasha Prayathi Technologies**  
-  - Programmed IoT applications with Arduino Uno & Raspberry Pi  
-  - Integrated radar and sensor-based embedded solutions  
-  - 📄 [Certificate](Certificates/iot.pdf)  
-
 - **Python Basics for Data Science – IBM**  
   - Acquired Python fundamentals (OOP, control structures, functions)  
   - Applied **NumPy, Pandas, Matplotlib** for data analysis  
@@ -60,17 +44,15 @@
 ---
 
 ## 🛠 Tech Stack
-**Languages:** C, Python, Java, SQL  
-**Hardware & Tools:** Verilog, Arduino, FPGA (Vivado), EDA Playground  
-**Data Science:** NumPy, Pandas, Matplotlib  
+**Languages:** C, Python, Java, SQL     
+**Data Visualisation Tools:** Microsoft Excel, PowerBi, Tableau
 **Other Tools:** Github, VS Code, Eclipse, Excel, Word 
 
 ---
 
 ## 🌱 Interests
-- Low-Power VLSI Design  
-- Processor Architecture  
-- Embedded Systems & IoT  
+- Software Engineering
+- Data Analyst 
 - Data Science  
 
 ---
