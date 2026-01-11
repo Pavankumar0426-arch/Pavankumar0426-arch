@@ -44,7 +44,7 @@
 ---
 
 ## 🛠 Tech Stack
-**Languages:** C, Python, Java, SQL     
+**Languages:** C, Python, Java, SQL
 **Data Visualisation Tools:** Microsoft Excel, PowerBi, Tableau
 **Other Tools:** Github, VS Code, Eclipse, Excel, Word 
 
