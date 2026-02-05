@@ -25,7 +25,16 @@
   
 ---
 
-## 💼 Internships  
+##  🎓 Education
+- **Bachelor of Technology (B.Tech)** - Electronics and Communication Engineering (March 2025)  
+  Gayatri Vidya Parishad College of Engineering (Autonomous), Visakhapatnam, Andhra Pradesh.  
+
+- **Intermediate** - MPC  
+  Sri Chaitanya Junior College, Vizianagaram, Andhra Pradesh.
+
+---
+
+## 💼 Certifications  
 
 - **Data Analyst Internship - Aivariant (Oct 2025 - Jan 2026)**
   - Completed a structured **Data Analyst internship**, working on real-world datasets and analytical problem statements.
@@ -53,9 +62,8 @@
 
 ---
 
-## 🌱 Interests
-- Data Analyst 
-- Data Science  
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pavankumar0426-arch&show_icons=true)  
 
 ---
 
