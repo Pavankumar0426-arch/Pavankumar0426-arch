@@ -4,21 +4,22 @@
 
 # 👋 Hi, I'm Maturu Pavan Kumar  
 
-💻 B.Tech Student in Electronics & Communication Engineering  
-⚡ Data Analyst skilled in Python, SQL, Power BI, and Tableau  
-⚡ I enjoy transforming raw data into actionable insights  
-📍 Based in Vizianagaram, Andhra Pradesh, India  
+🎯 **Aspiring Data Analyst** with hands-on experience in analyzing data, building dashboards, and extracting meaningful insights using modern data tools  
 
 ---
 
 ## 🛠 Tech Stack
-**Technical & Data Analysis Skills:** SQL, Python, Advanced Excel, Power BI, Tableau  
-**Data Preparation & Analysis:** Data Cleaning, Exploratory Data Analysis (EDA)  
-**Soft Skills:** Analytical Thinking, Problem-Solving, Attention to Detail, Communication  
+
+- **Programming & Querying:** Python, SQL  
+- **Data Analysis:** Data Cleaning, EDA, ETL  
+- **Visualization:** Power BI, Tableau  
+- **Spreadsheets:** Advanced Excel  
+- **Soft Skills:** Analytical Thinking, Problem Solving, Communication
 
 ---
 
 ## 🚀 Projects
+
 🔹 [Real-Time People Tracking & Counting System](https://github.com/Pavankumar0426-arch/RealTimeObjectTracking)  
 🔹 [Power-Optimized 3-Stage Pipelined RISC-V Processor](https://github.com/Pavankumar0426-arch/power-optimized-riscv)  
 🔹 [Parking Sensor using Arduino](https://github.com/Pavankumar0426-arch/Parking-Sensor-using-Arduino)  
@@ -26,6 +27,7 @@
 ---
 
 ##  🎓 Education
+
 - **Bachelor of Technology (B.Tech)** - Electronics and Communication Engineering (March 2025)  
   Gayatri Vidya Parishad College of Engineering (Autonomous), Visakhapatnam, Andhra Pradesh.  
 
@@ -62,12 +64,8 @@
 
 ---
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pavankumar0426-arch&show_icons=true)    
-
----
-
 ## 📫 Connect with Me
+
 - [LinkedIn](http://www.linkedin.com/in/pavan-kumar-maturu-591935251)  
 - pavanmaturu2002@gmail.com  
-- [GitHub](https://github.com/Pavankumar0426-arch)  
+- [GitHub](https://github.com/Pavankumar0426-arch)
