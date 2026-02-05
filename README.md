@@ -20,7 +20,7 @@
 
 ## 🚀 Projects
 
-🔹 [Adventure Works ](https://github.com/Pavankumar0426-arch/RealTimeObjectTracking)  
+🔹 [Adventure Works Cycles](https://github.com/Pavankumar0426-arch/Adventure-Works)  
 🔹 [Real-Time People Tracking & Counting System](https://github.com/Pavankumar0426-arch/RealTimeObjectTracking)  
 🔹 [Power-Optimized 3-Stage Pipelined RISC-V Processor](https://github.com/Pavankumar0426-arch/power-optimized-riscv)  
 🔹 [Parking Sensor using Arduino](https://github.com/Pavankumar0426-arch/Parking-Sensor-using-Arduino)  
