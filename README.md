@@ -2,11 +2,11 @@
   <img src="https://raw.githubusercontent.com/Pavankumar0426-arch/Maturu-Pavan-Kumar/main/Banner.png" alt="GitHub Profile Banner">
 </p>
 
-# 👋 Hi, I'm Pavan Kumar  
+# 👋 Hi, I'm Maturu Pavan Kumar  
 
-💻 B.Tech Student in **Electronics & Communication Engineering** (JNTUK)  
+💻 B.Tech Student in Electronics & Communication Engineering  
 ⚡ Data Analyst skilled in Python, SQL, Power BI, and Tableau  
-⚡I enjoy transforming raw data into actionable insights  
+⚡ I enjoy transforming raw data into actionable insights  
 📍 Based in Vizianagaram, Andhra Pradesh, India  
 
 ---
@@ -63,5 +63,3 @@
 - [LinkedIn](http://www.linkedin.com/in/pavan-kumar-maturu-591935251)  
 - pavanmaturu2002@gmail.com  
 - [GitHub](https://github.com/Pavankumar0426-arch)  
-
----
