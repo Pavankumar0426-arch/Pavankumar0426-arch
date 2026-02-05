@@ -19,22 +19,34 @@
 
 ## 💼 Internships  
 
-- **Data Analyst - ExcelR**
-  - Enhanced dashboards for sales, operations, and customer metrics. 
-  - Cleaned, transformed, and validated datasets for accurate reporting. 
-  - Automated repetitive reports using Excel formulas & Power Query. 
-  - Collaborated with mentors to deliver insights that improved business KPIs.
+- **Data Analyst - ExcelR (Dec 2025)**
+  - Gained hands-on experience in **SQL, Python, Advanced Excel, Power BI, and Tableau** for data analysis and reporting. 
+  - Performed **data cleaning, preprocessing, and exploratory data analysis (EDA)** to identify trends and patterns.
+  - Developed **interactive dashboards and KPI reports** to support data-driven business decisions.
+  - Applied ETL processes to transform and model raw data into structured, analysis-ready datasets.
+  - Strengthened **analytical thinking, problem-solving, and communication skills** through real-world case studies and projects.
   - 📄 [Certificate](Certificates/Data_analyst.pdf)
 
+- **Data Analyst Internship - Aivariant (Oct 2025 - Jan 2026)**
+  - Completed a structured **Data Analyst internship**, working on real-world datasets and analytical problem statements.
+  - Applied **SQL, Python, and Advanced Excel** to extract, clean, and analyze data for meaningful insights.
+  - Performed **data preprocessing and exploratory data analysis (EDA)** to identify trends and patterns.
+  - Developed **interactive dashboards and reports** using **Power BI / Tableau** to support decision-making.
+  - Strengthened **analytical thinking, problem-solving, and professional reporting skills** through hands-on tasks.
+  - 📄 [Certificate](Certificates/Data_analyst_Project.pdf)
+  
+- **Python 101 for Data Science – IBM Cognitive Class**  
+  - Learned Python fundamentals for data science, including variables, data types, loops, functions, and control structures. 
+  - Worked with Python libraries such as NumPy and Pandas for data manipulation and analysis.
+  - Performed data loading, cleaning, and basic exploratory analysis using Python.
+  - Implemented data processing and transformation techniques on structured datasets.
+  - Strengthened problem-solving and analytical skills by applying Python to real-world data science exercises.
+  - 📄 [Certificate](Certificates/python101_ibm.pdf)
+    
 - **Python Basics for Data Science – IBM**  
   - Acquired Python fundamentals (OOP, control structures, functions)  
   - Applied **NumPy, Pandas, Matplotlib** for data analysis  
   - 📄 [Certificate](Certificates/python_basics_ibm.pdf)  
-
-- **Python 101 for Data Science – IBM Cognitive Class**  
-  - Worked with Jupyter Notebooks for coding and documenting data workflows  
-  - Applied Python for exploratory data analysis  
-  - 📄 [Certificate](Certificates/python101_ibm.pdf)  
 
 - **Java Programming – Mindenious “Elevate your Intellect”**  
   - Mastered core Java concepts and OOP principles  
