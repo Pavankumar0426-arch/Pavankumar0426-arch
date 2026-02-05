@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Pavankumar0426-arch/Pavankumar0426-arch/main/Banner.jpg" alt="GitHub Profile Banner">
+  <img src="https://raw.githubusercontent.com/Pavankumar0426-arch/Maturu-Pavan-Kumar/main/Banner.jpg" alt="GitHub Profile Banner">
 </p>
 
 # 👋 Hi, I'm Pavan Kumar  
