@@ -40,13 +40,13 @@
 
 ## 💼 Certifications  
 
-- **Data Analyst Internship - Aivariant (Oct 2025 - Jan 2026)**
+- **Data Analyst Internship - Aivariant (Jul 2025 - Apr 2026)**
   - Completed a structured **Data Analyst internship**, working on real-world datasets and analytical problem statements.
   - Applied **SQL, Python, and Advanced Excel** to extract, clean, and analyze data for meaningful insights.
   - Performed **data preprocessing and exploratory data analysis (EDA)** to identify trends and patterns.
   - Developed **interactive dashboards and reports** using **Power BI / Tableau** to support decision-making.
   - Strengthened **analytical thinking, problem-solving, and professional reporting skills** through hands-on tasks.  
-  📄 [Certificate](Certificates/Data_analyst_Project.pdf)  
+  📄 [Certificate](Certificates/MaturuPavanKumar_DataAnalyst.pdf)  
 
 - **Data Analyst - ExcelR (Dec 2025)**
   - Gained hands-on experience in **SQL, Python, Advanced Excel, Power BI, and Tableau** for data analysis and reporting. 
