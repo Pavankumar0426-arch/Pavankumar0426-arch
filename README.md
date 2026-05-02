@@ -20,6 +20,7 @@
 
 ## 🚀 Projects
 
+🔹 [Insurance Dashboard](https://github.com/Pavankumar0426-arch/Insurance-Dashboard)  
 🔹 [Adventure Works Cycles](https://github.com/Pavankumar0426-arch/Adventure-Works)  
 🔹 [CRM Analytics](https://github.com/Pavankumar0426-arch/CRM-Analytics)  
 🔹 [Real-Time People Tracking & Counting System](https://github.com/Pavankumar0426-arch/RealTimeObjectTracking)  
